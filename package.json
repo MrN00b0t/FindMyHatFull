@@ -1,0 +1,13 @@
+{
+  "name": "find-my-hat-full",
+  "version": "0.0.0",
+  "description": "FindMyHatFull",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "collections": "^5.1.11",
+    "prompt-sync": "^4.2.0"
+  }
+}
